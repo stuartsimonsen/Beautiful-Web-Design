@@ -18,10 +18,11 @@ CSSNext CSS Grid by Cloning beautiful websites and layouts.
 
 ### CSS Flex
 
-- [O] CSS Flex Basics
-- [O] Main Axis and Cross Axis
-- [ ] Flex Direction
-- [ ] Flex Wrap
+- [x] CSS Flex Basics
+- [x] Main Axis and Cross Axis
+- [x] Flex Direction
+- [x] Flex Wrap
+- [x] Align Self
 
 ### CSS Grid
 
