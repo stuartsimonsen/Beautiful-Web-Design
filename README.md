@@ -28,7 +28,7 @@ CSSNext CSS Grid by Cloning beautiful websites and layouts.
 
 - [x] CSS Grid Basics ( Row, columns and gaps)
 - [x] Auto columns, auto rows
-- [ ] Template Areas
+- [x] Template Areas
 - [ ] fr unit, repeat
 - [ ] minmax, max-content, min-content
 - [ ] auto-fill, auto-fit
