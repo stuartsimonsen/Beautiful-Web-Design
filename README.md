@@ -31,9 +31,9 @@ CSSNext CSS Grid by Cloning beautiful websites and layouts.
 - [x] Template Areas
 - [x] fr unit, repeat
 - [x] minmax, max-content, min-content
-- [ ] auto-fill, auto-fit
-- [ ] Justify Items, Align Items and Place Items
-- [ ] Justify Content, Align Content and Place Content
+- [x] auto-fill, auto-fit
+- [x] Justify Items, Align Items and Place Items
+- [x] Justify Content, Align Content and Place Content
 - [ ] Grid Column, Row Start and End
 - [ ] Grid Area
 - [ ] Justify, Align, Place Self
