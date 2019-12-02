@@ -34,9 +34,9 @@ CSSNext CSS Grid by Cloning beautiful websites and layouts.
 - [x] auto-fill, auto-fit
 - [x] Justify Items, Align Items and Place Items
 - [x] Justify Content, Align Content and Place Content
-- [ ] Grid Column, Row Start and End
-- [ ] Grid Area
-- [ ] Justify, Align, Place Self
+- [x] Grid Column, Row Start and End
+- [x] Grid Area
+- [x] Justify, Align, Place Self
 
 ### CSS4 Selectors
 
