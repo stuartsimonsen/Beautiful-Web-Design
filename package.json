@@ -1,0 +1,19 @@
+{
+  "name": "CSS_MASTER",
+  "version": "1.0.0",
+  "description": "CSSNext CSS Grid by Cloning beautiful websites and layouts.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cielgrisdemoscou/Advanced_CSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cielgrisdemoscou/Advanced_CSS/issues"
+  },
+  "homepage": "https://github.com/cielgrisdemoscou/Advanced_CSS#readme",
+	"scripts": {
+		"start": "parcel index.html"
+	}
+}
