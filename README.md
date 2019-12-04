@@ -39,13 +39,20 @@ CSSNext CSS Grid by Cloning beautiful websites and layouts.
 - [x] Grid Area
 - [x] Justify, Align, Place Self
 
+### Using CSS4
+
+- [x] Installing Parcel
+- [x] Configuring PostCSS
+- [x] Testing
+
 ### CSS4 Selectors
 
-- [x] :any-link , :matches , :not
-- [ ] CSS Variables
-- [ ] @custom-media, @custom-selector
+- [x] :matches , :not
+- [x] CSS Variables
+- [x] @custom-selector
+- [ ] @custom-media
 - [ ] Media Query Ranges
-- [ ] font-variant, gray(), system-ui
+- [ ] color-mod, gray(), system-ui
 - [ ] Nesting Rules
 
 ### CSS Grid KISS
