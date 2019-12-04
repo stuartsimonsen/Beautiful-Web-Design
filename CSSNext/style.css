@@ -23,7 +23,6 @@ li:first-child a {
   color: #8e44ad;
 }
 
-*/
 
 @custom-media --ipad-size (width < 850px);
 
@@ -32,3 +31,39 @@ li:first-child a {
     background-color: red;
   }
 }
+
+
+h1 {
+	color: #f1c40f;
+}
+
+h1:hover {
+	color: color-mod(#f1c40f blackness(50%));
+}
+
+
+
+main {
+  background-color: blue;
+  & section {
+    background-color: red;
+    width: 500px;
+    & li {
+      background-color: yellow;
+      width: 400px;
+      & a {
+        color: black;
+        &:hover {
+          font-size: 30px;
+        }
+      }
+    }
+  }
+}
+
+a {
+  color: red;
+}
+
+*/
+
