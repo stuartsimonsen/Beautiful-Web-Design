@@ -50,13 +50,8 @@ CSSNext CSS Grid by Cloning beautiful websites and layouts.
 - [x] :matches , :not
 - [x] CSS Variables
 - [x] @custom-selector
-- [ ] @custom-media
+- [x] @custom-media
 - [ ] Media Query Ranges
 - [ ] color-mod, gray(), system-ui
 - [ ] Nesting Rules
 
-### CSS Grid KISS
-
-- [ ] Introduction
-- [ ] KISS Calculator
-- [ ] KISS Blog

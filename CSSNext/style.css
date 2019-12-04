@@ -7,7 +7,7 @@ li:matches(:nth-child(even), .target) {
 li:not(.target){
 	background-color:red;
 }
-*/
+
 
 :root {
 	--awesomeColor: 1px solid #2980b9;
@@ -21,4 +21,14 @@ li:first-child a {
 
 :--headers {
   color: #8e44ad;
+}
+
+*/
+
+@custom-media --ipad-size (width < 850px);
+
+@media (--ipad-size) {
+  body {
+    background-color: red;
+  }
 }
