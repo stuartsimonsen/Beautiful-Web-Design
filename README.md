@@ -36,12 +36,12 @@ CSSNext CSS Grid by Cloning beautiful websites and layouts.
 - [x] Justify Items, Align Items and Place Items
 - [x] Justify Content, Align Content and Place Content
 - [x] Grid Column, Row Start and End
-- [ ] Grid Area
-- [ ] Justify, Align, Place Self
+- [x] Grid Area
+- [x] Justify, Align, Place Self
 
 ### CSS4 Selectors
 
-- [ ] :any-link , :matches , :not
+- [x] :any-link , :matches , :not
 - [ ] CSS Variables
 - [ ] @custom-media, @custom-selector
 - [ ] Media Query Ranges
