@@ -51,7 +51,7 @@ CSSNext CSS Grid by Cloning beautiful websites and layouts.
 - [x] CSS Variables
 - [x] @custom-selector
 - [x] @custom-media
-- [ ] Media Query Ranges
-- [ ] color-mod, gray(), system-ui
-- [ ] Nesting Rules
+- [x] Media Query Ranges
+- [x] color-mod, gray(), system-ui
+- [x] Nesting Rules
 
