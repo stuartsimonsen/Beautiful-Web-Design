@@ -1,7 +1,7 @@
 
 # Advanced_CSS
 
-CSSNext CSS Grid by Cloning beautiful websites and layouts.
+CSSNext and CSS Grid by Cloning beautiful websites and layouts.
 
 ## To Clone:
 
