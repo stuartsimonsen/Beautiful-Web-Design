@@ -24,23 +24,6 @@ li:first-child a {
 }
 
 
-@custom-media --ipad-size (width < 850px);
-
-@media (--ipad-size) {
-  body {
-    background-color: red;
-  }
-}
-
-
-h1 {
-	color: #f1c40f;
-}
-
-h1:hover {
-	color: color-mod(#f1c40f blackness(50%));
-}
-
 
 
 main {
@@ -65,5 +48,27 @@ a {
   color: red;
 }
 
+
 */
+
+@custom-media --ipad-size (width < 850px);
+
+@media (--ipad-size) {
+  body {
+    background-color: red;
+  }
+}
+
+h1 {
+	color: #f1c40f;
+}
+
+h1:hover {
+	color: color-mod(#f1c40f blackness(50%));
+}
+
+
+
+
+
 
