@@ -15,17 +15,20 @@
   "homepage": "https://github.com/cielgrisdemoscou/Advanced_CSS#readme",
   "scripts": {
     "start": "parcel serve index.html",
-	"build": "parcel build index.html"
+    "build": "parcel build index.html"
   },
   "devDependencies": {
-    "postcss-preset-env": "6.7.0",
-    "parcel": "latest"
+    "parcel": "latest",
+    "postcss-preset-env": "^6.7.0"
   },
   "postcss": {
     "plugins": {
       "postcss-preset-env": {
         "stage": 0
       }
-	}	
+    }
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
   }
 }
