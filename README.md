@@ -15,7 +15,7 @@ CSSNext and CSS Grid by Cloning beautiful websites and layouts.
 <img src="https://i.pinimg.com/564x/a4/0d/ba/a40dba0269d7de0120496ec830d6b25a.jpg" width="300px" />
 <img src="https://cdn.dribbble.com/users/102267/screenshots/4275407/afisha_by_radiusss.jpg" width="300px" />
 
-## To Exercise
+## CSS Properties
 
 ### CSS Flex
 
