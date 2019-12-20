@@ -1,0 +1,84 @@
+:root {
+  --borderRadius: 15px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+	Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+	background-color: #fafafc;
+	color: rgba(0, 0, 0, 0.8);
+	padding: 0px 15px;
+}
+
+.header {
+	margin-top: 50px;
+	margin-bottom: 25px;
+}
+
+.header .header__title {
+	margin-bottom: 5px;
+	font-size: 45px;
+}
+
+.header .header__subtitle {
+	font-weight: 200;
+	font-size: 20px;
+}
+
+
+.grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 20px;
+}
+
+.grid .grid__main-item {
+	grid-column: span 2;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(https://avatars2.githubusercontent.com/u/50784573?s=400&u=c17be4fdcb0e7502570f6baa15939aacc378d596&v=4);
+	background-size: cover;
+	background-position: center center;
+	color: #fafafc;
+	padding: 20px 10px;
+	border-radius: var(--borderRadius);
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+.grid__main-item .main-item__title {
+	align-self: flex-end;
+	font-size: 22px;
+	font-weight: 400;
+}
+
+.grid__main-item .main-item__subtitle {
+  width: 70%;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.grid-item .grid-item__title {
+  font-weight: 800;
+  font-size: 16px;
+}
+
+.grid-item .grid-item__photo {
+	max-width: 100%;
+	border-radius: var(--borderRadius);
+	margin-bottom: 10px;
+}
+
+.grid-item .grid-item__subtitle {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+
