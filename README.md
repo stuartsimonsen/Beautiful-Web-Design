@@ -15,43 +15,5 @@ CSSNext and CSS Grid by Cloning beautiful websites and layouts.
 <img src="https://i.pinimg.com/564x/a4/0d/ba/a40dba0269d7de0120496ec830d6b25a.jpg" width="300px" />
 <img src="https://cdn.dribbble.com/users/102267/screenshots/4275407/afisha_by_radiusss.jpg" width="300px" />
 
-## CSS Properties
 
-### CSS Flex
-
-- [x] CSS Flex Basics
-- [x] Main Axis and Cross Axis
-- [x] Flex Direction
-- [x] Flex Wrap
-- [x] Align Self
-
-### CSS Grid
-
-- [x] CSS Grid Basics ( Row, columns and gaps)
-- [x] Auto columns, auto rows
-- [x] Template Areas
-- [x] fr unit, repeat
-- [x] minmax, max-content, min-content
-- [x] auto-fill, auto-fit
-- [x] Justify Items, Align Items and Place Items
-- [x] Justify Content, Align Content and Place Content
-- [x] Grid Column, Row Start and End
-- [x] Grid Area
-- [x] Justify, Align, Place Self
-
-### Using CSS4
-
-- [x] Installing Parcel
-- [x] Configuring PostCSS
-- [x] Testing
-
-### CSS4 Selectors
-
-- [x] :matches , :not
-- [x] CSS Variables
-- [x] @custom-selector
-- [x] @custom-media
-- [x] Media Query Ranges
-- [x] color-mod, gray(), system-ui
-- [x] Nesting Rules
 
