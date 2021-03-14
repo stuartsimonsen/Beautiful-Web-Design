@@ -1,7 +1,6 @@
 
 # WebDesign
 
-CSSNext and CSS Grid by Cloning beautiful websites and layouts.
 
 ## To Clone:
 
