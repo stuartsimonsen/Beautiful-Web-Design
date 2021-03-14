@@ -2,7 +2,6 @@
 # WebDesign
 
 
-## To Clone:
 
 <img src="https://i.pinimg.com/originals/7d/4c/66/7d4c66d0b646478a297ee21e7cd8aee5.jpg" width="300px" />
 <img src="https://i.pinimg.com/originals/c3/64/72/c36472e703f1ca49324f53991f610392.jpg" width="300px" />
